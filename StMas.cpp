@@ -1,13 +1,7 @@
 #include <iostream>
 #include <string.h>
 #include <cstring>
-int pop(char *mas)
-{
-	for(int i=0;i<10;i++)
-	{
-		
-	}
-}
+
 int main( ) 
 {
 	char mas[10]={'0','0','0','0','0','0','0','0','0','0'};
